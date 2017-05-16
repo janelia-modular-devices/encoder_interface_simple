@@ -1,3 +1,6 @@
 [submodule "hardware/encoder_interface_simple_3x2"]
 	path = hardware/encoder_interface_simple_3x2
 	url = https://github.com/janelia-kicad/encoder_interface_simple_3x2.git
+[submodule "firmware/EncoderInterfaceSimple"]
+	path = firmware/EncoderInterfaceSimple
+	url = https://github.com/janelia-arduino/EncoderInterfaceSimple.git
