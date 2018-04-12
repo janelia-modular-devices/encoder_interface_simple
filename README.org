@@ -1,0 +1,7 @@
+#+TITLE: encoder_interface_simple
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
